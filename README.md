@@ -10,7 +10,7 @@ Management needs a quick way to see how teams are performing against targets, wh
 - **Departments:** Sales, Marketing, Finance, HR, IT, Operations
 - **Regions:** California, New York, Texas, Florida
 - **Key fields:** Target/Completed/Pending Tasks, Actual & Overtime Hours, Productivity %, Quality Score %, Achievement %, Attendance Status, Performance Status
-- **Note:** The dataset is Employee_Performance_Data.xlsx.
+- **Note:** The dataset is [Employee_Performance_Data.xlsx](Employee_Performance_Data.xlsx)
 
 ## Tools Used
 Microsoft Excel: PivotTables, PivotCharts, slicers, KPI cards, dashboard design
