@@ -23,8 +23,7 @@ Microsoft Excel: PivotTables, PivotCharts, slicers, KPI cards, dashboard design
 - **People view:** Top employees by achievement
 - **Status view:** Attendance and performance status breakdown
 
-[Dashboard](images/dashboard.png)
-
+![Employee Performance Dashboard](Dashboard_Screenshot.png)
 ## Key Findings
 - Overall averages: **91.9% productivity, 90.6% achievement, 88.8% quality score**, with 1,177 tasks completed.
 - **Sales** is the strongest department (93.6% achievement, 95.0% productivity). **Marketing** is the weakest (87.4% achievement, 89.0% productivity).
